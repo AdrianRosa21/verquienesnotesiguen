@@ -1,0 +1,74 @@
+{
+  "relationships_following": [
+    {
+      "title": "ana",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/ana",
+          "timestamp": 1690000000
+        }
+      ]
+    },
+    {
+      "title": "luis",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/luis",
+          "timestamp": 1690086400
+        }
+      ]
+    },
+    {
+      "title": "creido_1",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/creido_1",
+          "timestamp": 1690172800
+        }
+      ]
+    },
+    {
+      "title": "maria",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/maria",
+          "timestamp": 1690259200
+        }
+      ]
+    },
+    {
+      "title": "creido_2",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/creido_2",
+          "timestamp": 1690345600
+        }
+      ]
+    },
+    {
+      "title": "pedro_mayus",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/pedro_mayus",
+          "timestamp": 1690432000
+        }
+      ]
+    },
+    {
+      "title": "banda_favorita",
+      "media_list_data": [],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/_u/banda_favorita",
+          "timestamp": 1690518400
+        }
+      ]
+    }
+  ]
+}

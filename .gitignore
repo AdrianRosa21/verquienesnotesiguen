@@ -1,0 +1,7 @@
+# Datos personales de Instagram: NUNCA subirlos al repositorio
+scriptespecial/datos/*
+!scriptespecial/datos/.gitkeep
+scriptespecial/resultados/
+
+__pycache__/
+*.pyc

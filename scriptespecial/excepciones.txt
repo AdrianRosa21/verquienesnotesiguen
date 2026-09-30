@@ -1,0 +1,6 @@
+# Cuentas que quieres seguir aunque NO te sigan de vuelta
+# (artistas, marcas, maestros, memes, etc.). Una por línea, con o sin @.
+# Las líneas que empiezan con # se ignoran.
+#
+# Ejemplo:
+# @cuenta_que_si_quiero_seguir
